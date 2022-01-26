@@ -1,6 +1,5 @@
 // https://www.codechef.com/JAN222C/problems/SUMANDOR
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
