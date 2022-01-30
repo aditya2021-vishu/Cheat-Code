@@ -1,5 +1,4 @@
 // https://codeforces.com/contest/1627/problem/C
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
