@@ -2,7 +2,6 @@
 https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-coin-boxes-1/?utm_source=header&utm_medium=search&utm_campaign=he-search
 */
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
