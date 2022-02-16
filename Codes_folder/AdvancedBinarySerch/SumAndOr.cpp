@@ -14,6 +14,7 @@ bool possible(long long x, long long s, long long cnt){
     return sum == 0;
 }
 
+
 int main(){
     int t;
     cin>>t;
